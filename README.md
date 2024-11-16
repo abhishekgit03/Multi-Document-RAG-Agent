@@ -61,5 +61,5 @@ The **Multi-Document RAG Agent** is an intelligent query routing system built to
 - **Potential Information Loss**: When multiple documents are retrieved, combining passages may omit some details.
 
 
-# Demo Video: [Watch on Canva](https://www.canva.com/design/DAGOL1_fKr8/dfN6twr4KGkWXtTChWPJ6Q/watch?utm_content=DAGOL1_fKr8&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+# Demo Video: [Watch](https://drive.google.com/file/d/1q9vLmcWEZWTERcqJdDbpaqWO2xxbJ6HR/view?usp=sharing)
 Note: This project was developed for an assignment provided by RaccoonAI, a Bangalore based startup for SDE(AI) role. Cleared all the stages including this assignment however could't join the company due to relocation issues. The above project includes a complete self-made architecture developed from scratch.
