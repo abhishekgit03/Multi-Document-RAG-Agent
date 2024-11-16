@@ -1,4 +1,4 @@
-### Multi-Document RAG Agent Architecture
+## Multi-Document RAG Agent Architecture
 
 The **Multi-Document RAG Agent** is an intelligent query routing system built to retrieve and process information from large sets of documents efficiently. It uses a Retrieval-Augmented Generation (RAG) framework to select the most relevant documents and passages, significantly improving query response accuracy and efficiency. By generating concise summaries for each document, the system creates a robust mapping mechanism that aligns user queries with the most relevant documents. These summaries encapsulate the core content of documents, streamlining the retrieval process and enabling precise targeting of relevant data.
 
@@ -17,6 +17,9 @@ The **Multi-Document RAG Agent** is an intelligent query routing system built to
 
 
 ## How It Works
+![Diagram 1](https://github.com/user-attachments/assets/bbc60fee-d603-4a41-a96b-a2e689056c17)
+
+
 
 ### Data Preparation
 1. **Document Summarization**:
